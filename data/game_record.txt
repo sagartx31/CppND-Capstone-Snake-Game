@@ -1,0 +1,12 @@
+markus 10
+bart 99
+micheal 87
+buchholz 9
+john 88 
+arnold 444
+le 800
+stian 90
+frode 888
+greg 6
+anna 88
+josh 56
